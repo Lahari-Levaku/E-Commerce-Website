@@ -9,3 +9,9 @@ Skills demonstrated:
 - Turning raw data into actionable insights
 
 This dashboard offers a clear, data-driven view of e-commerce performance and supports better decision-making for product, marketing, and sales teams.
+
+<img width="1288" height="728" alt="Image" src="https://github.com/user-attachments/assets/088c3f08-a219-44d3-9990-f73dcbff8cf4" />
+
+<img width="1264" height="722" alt="Image" src="https://github.com/user-attachments/assets/067f8ba9-ab8b-4fc4-86cd-80f062377b1f" />
+
+<img width="1273" height="720" alt="Image" src="https://github.com/user-attachments/assets/52548286-2972-47e8-9d7e-43776acccbba" />
